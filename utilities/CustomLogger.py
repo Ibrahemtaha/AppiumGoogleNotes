@@ -1,6 +1,7 @@
 import inspect
 import logging
 import allure
+import os, os.path
 
 
 def customLogger():
@@ -14,7 +15,10 @@ def customLogger():
     logger.setLevel(logging.DEBUG)
 
     # 4.) Create the fileHandler to save the logs in the file
-    fileHandler = logging.FileHandler("../reports/Code2Lead.log", mode='a')
+    my_path = os.path.abspath(os.path.dirname(__file__))
+    path = os.path.join(my_path, "../reports/Code2Lead.log")
+    fileHandler = logging.FileHandler(path, mode='a')
+    # C:\\Users\\Ibrahem.taha\\Documents\\Ibrahem\\Appium\\AppiumGoogleNotes\\reports\Code2Lead.log
 
     # 5.) Set the logLevel for fileHandler
     fileHandler.setLevel(logging.DEBUG)

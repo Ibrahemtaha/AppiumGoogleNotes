@@ -39,6 +39,7 @@ class AddNotesTest(unittest.TestCase):
 ####
 # # D:\pycharmProjects\AppiumGoogleNotes\reports\allurereports
 # # py.test --alluredir=D:\pycharmProjects\AppiumGoogleNotes\reports\allurereports -v -s AddNoteTest.py
+# py.test -v -s  C:\Users\Ibrahem.taha\Documents\Ibrahem\Appium\AppiumGoogleNotes\tests\AddNoteTest.py
 #
 # # IMPORTNAT: problem was Set Allure.bat to Envirounment Variables AND user Full path of file
 # # python -m pytest -v -s  D:\pycharmProjects\AppiumGoogleNotes\tests\AddNoteTest.py  --alluredir=D:\pycharmProjects\AppiumGoogleNotes\reports\allurereports

@@ -509,3 +509,25 @@
 09/10/22 08:02:04 AM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
 09/10/22 08:02:04 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/toolbar
 09/10/22 08:02:04 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/toolbaris displayed 
+09/10/22 04:48:59 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/new_note_button
+09/10/22 04:48:59 PM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/new_note_button
+09/10/22 04:49:00 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/edit_note_text
+09/10/22 04:49:02 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/edit_note_text
+09/10/22 04:49:03 PM Sunday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/edit_note_text
+09/10/22 04:49:04 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/editable_title
+09/10/22 04:49:05 PM Sunday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/editable_title
+09/10/22 04:49:48 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 04:49:48 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 04:49:48 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/toolbar
+09/10/22 04:49:48 PM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/toolbaris displayed 
+09/10/22 04:52:37 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/new_note_button
+09/10/22 04:52:37 PM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/new_note_button
+09/10/22 04:52:38 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/edit_note_text
+09/10/22 04:52:39 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/edit_note_text
+09/10/22 04:52:40 PM Sunday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/edit_note_text
+09/10/22 04:52:41 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/editable_title
+09/10/22 04:52:42 PM Sunday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/editable_title
+09/10/22 04:53:25 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 04:53:25 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 04:53:25 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/toolbar
+09/10/22 04:53:25 PM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/toolbaris displayed 
