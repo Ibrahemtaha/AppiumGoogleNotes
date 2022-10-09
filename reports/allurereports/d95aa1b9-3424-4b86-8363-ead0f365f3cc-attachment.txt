@@ -1,0 +1,7 @@
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/new_note_button
+[32mINFO    [0m BasePage:BasePage.py:66 Clicked on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/new_note_button
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/edit_note_text
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/edit_note_text
+[32mINFO    [0m BasePage:BasePage.py:79 Send text  on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/edit_note_text
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/editable_title
+[32mINFO    [0m BasePage:BasePage.py:79 Send text  on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/editable_title

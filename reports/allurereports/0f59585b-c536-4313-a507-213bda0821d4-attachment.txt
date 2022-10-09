@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:55 Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+[32mINFO    [0m BasePage:BasePage.py:70 Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+[32mINFO    [0m BasePage:BasePage.py:52 Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/toolbar
+[32mINFO    [0m BasePage:BasePage.py:97  Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/toolbaris displayed
