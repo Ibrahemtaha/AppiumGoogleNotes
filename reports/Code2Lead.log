@@ -531,3 +531,17 @@
 09/10/22 04:53:25 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
 09/10/22 04:53:25 PM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.google.android.keep:id/toolbar
 09/10/22 04:53:25 PM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/toolbaris displayed 
+09/10/22 05:35:04 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:35:04 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:35:18 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:35:18 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:35:51 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:35:51 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:39:34 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:39:34 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:40:15 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:40:15 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:40:56 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:40:56 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:46:08 PM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
+09/10/22 05:46:08 PM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.google.android.keep:id/skip_welcome
