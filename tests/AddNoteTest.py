@@ -45,5 +45,3 @@ class AddNotesTest(unittest.TestCase):
 # # python -m pytest -v -s  D:\pycharmProjects\AppiumGoogleNotes\tests\AddNoteTest.py  --alluredir=D:\pycharmProjects\AppiumGoogleNotes\reports\allurereports
 #
 # # To use Allure: allure serve D:\pycharmProjects\AppiumGoogleNotes\reports\allurereports
-
-# 1) Folder Featrues -> feature dir + steps dir
