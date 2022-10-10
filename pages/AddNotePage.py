@@ -50,7 +50,7 @@ class AddNote(BasePage):
         #self.waitForElement(self,self._enterTitleText,)
         self.driver.implicitly_wait(20)
         self.driver.back()
-
+#dvdvdv
     # def validateNoteCreation(self):
     #     self.waitForElement(self._mainPageSeachBar,"id")
     #     element3 = self.isDisplayed(self._titleOfNote, "id")
