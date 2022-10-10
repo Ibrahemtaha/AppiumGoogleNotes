@@ -12,13 +12,9 @@ import utilities.CustomLogger as cl
 def lunchGoogleNoteApp(self):
     driver1 = Driver()
     self.driver = driver1.getDriverMethod()
-    # self.driver = driver
-    print("1")
-    self.bs = BasePage(self)
-    print("2")
+    # self.bs = BasePage(self)
     # self.bs.waitForElement()
     self.ad = AddNote(self.driver)
-    print("3")
 
 @when(u'skip Welcome button')
 def SkipWelcomeButtonAndVerifyPage(self):
