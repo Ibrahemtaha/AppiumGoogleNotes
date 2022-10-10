@@ -18,8 +18,6 @@ class AddNote(BasePage):
 
 
     def clickSkipButton(self):
-        element = self.isDisplayed(self._SkipwelcomeButton,"id")
-        assert element == True
         self.clickElement(self._SkipwelcomeButton, "id")
 
     def verifyMainPage(self):
