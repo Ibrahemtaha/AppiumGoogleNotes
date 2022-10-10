@@ -6,4 +6,4 @@ Feature: Google Notes app
 #    And Add Description
 #    And add title
 #    And we click Back
-#    Then New Note should be displayed
+    Then New Note should be displayed
